@@ -6,4 +6,4 @@
   
   <h2> Smart Car Parking System</h2><br>
  
-  <b>Overview:</b> The ** Smart Car Parking System ** is designed to offer a seamless and efficient parking experience, reducing confusion and saving time for drivers. This project provides real-time, accurate information about available parking spaces, allowing drivers to park their vehicles quickly and efficiently. By optimizing the parking process, the system ensures minimal time wastage and helps manage parking spaces more effectively.
+  <b>Overview:</b> The Smart Car Parking System is designed to offer a efficient parking experience, reducing confusion and saving time for drivers. This project provides real-time, accurate information about available parking spaces, allowing drivers to park their vehicles quickly and efficiently. By optimizing the parking process, the system ensures minimal time wastage and helps manage parking spaces more effectively.
