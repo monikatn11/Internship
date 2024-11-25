@@ -8,11 +8,10 @@
  
   <h3>Overview:</h3> The Smart Car Parking System is designed to offer a efficient parking experience, reducing confusion and saving time for drivers. This project provides real-time, accurate information about available parking spaces, allowing drivers to park their vehicles quickly and efficiently. By optimizing the parking process, the system ensures minimal time wastage and helps manage parking spaces more effectively.<br>
 <h3>Components Required:</h3>
-### 1. **Components Needed**:
-- Arduino Uno
-- 3 x IR Sensors
-- 1 x Ultrasonic Sensor (HC-SR04)
-- 16x2 LCD Display
-- Breadboard and Jumper Wires
+- Arduino Uno<br>
+- 3 x IR Sensors<br>
+- 1 x Ultrasonic Sensor (HC-SR04)<br>
+- 16x2 LCD Display<br>
+- Breadboard and Jumper Wires<br>
 
   
