@@ -11,7 +11,8 @@
 <li>Arduino Uno</li>
 <li>3 x IR Sensors</li>
 <li>1 x Ultrasonic Sensor (HC-SR04)</li>
-<li>16x2 LCD Display</li>
+<li>1 x 16x2 LCD Display</li>
+<li>1 x Servo motor</li>
 <li>Breadboard and Jumper Wires</li><br>
 <h3>Pin connections:</h3><br>
 
