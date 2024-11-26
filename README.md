@@ -12,6 +12,8 @@
 <li>3 x IR Sensors</li>
 <li>1 x Ultrasonic Sensor (HC-SR04)</li>
 <li>16x2 LCD Display</li>
-<li>Breadboard and Jumper Wires</li>
+<li>Breadboard and Jumper Wires</li><br>
+<h3> Pin Diagram:</h3>
+https://drive.google.com/file/d/1aKSNltOhvZAQ_rki-9UDfbnzpSdsITVV/view?usp=sharing">
 
   
