@@ -20,6 +20,6 @@
 
 
 <h3> Pin Diagram:</h3>
-<img src="Internship/smart_parking_system.png">
+<img src="Internship/smartparkingsystem.png">
 
   
